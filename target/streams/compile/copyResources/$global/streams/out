@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/admin1/akka-examples/blog-apis-kafka/src/main/resources/logback.xml,/home/admin1/akka-examples/blog-apis-kafka/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/admin1/akka-examples/blog-apis-kafka/src/main/resources/db,/home/admin1/akka-examples/blog-apis-kafka/target/scala-2.11/classes/db)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/admin1/akka-examples/blog-apis-kafka/src/main/resources/db/migration,/home/admin1/akka-examples/blog-apis-kafka/target/scala-2.11/classes/db/migration)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/admin1/akka-examples/blog-apis-kafka/src/main/resources/db/migration/V2__Create_posts_table.sql,/home/admin1/akka-examples/blog-apis-kafka/target/scala-2.11/classes/db/migration/V2__Create_posts_table.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/admin1/akka-examples/blog-apis-kafka/src/main/resources/db/migration/V1__Create_users_table.sql,/home/admin1/akka-examples/blog-apis-kafka/target/scala-2.11/classes/db/migration/V1__Create_users_table.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/admin1/akka-examples/blog-apis-kafka/src/main/resources/db/migration/V3__Create_comments_table.sql,/home/admin1/akka-examples/blog-apis-kafka/target/scala-2.11/classes/db/migration/V3__Create_comments_table.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/admin1/akka-examples/blog-apis-kafka/src/main/resources/public,/home/admin1/akka-examples/blog-apis-kafka/target/scala-2.11/classes/public)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/admin1/akka-examples/blog-apis-kafka/src/main/resources/public/index.html,/home/admin1/akka-examples/blog-apis-kafka/target/scala-2.11/classes/public/index.html)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/admin1/akka-examples/blog-apis-kafka/src/main/resources/application.conf,/home/admin1/akka-examples/blog-apis-kafka/target/scala-2.11/classes/application.conf)[0m
